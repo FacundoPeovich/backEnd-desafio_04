@@ -1,0 +1,152 @@
+[
+	{
+		"title": "Articulo 31",
+		"description": "Galletitaaas Terrabussi Surtidas",
+		"code": 25,
+		"price": 1800,
+		"status": true,
+		"stock": "20",
+		"category": "Galletitas",
+		"thumbnails": [],
+		"id": "yeg4bgygvlpic9v7o"
+	},
+	{
+		"title": "Articulo 1",
+		"description": "Galletitas Bagley Surtidas",
+		"code": 1,
+		"price": 500,
+		"status": true,
+		"stock": "5",
+		"category": "Galletitas",
+		"thumbnails": [],
+		"id": "5s2f6vpx4lpidauvt"
+	},
+	{
+		"title": "Articulo 2",
+		"description": "Galletitas Manon",
+		"code": 2,
+		"price": 500,
+		"status": true,
+		"stock": "12",
+		"category": "Galletitas",
+		"thumbnails": [],
+		"id": "fahw49kfelpj579m5"
+	},
+	{
+		"title": "Articulo 3",
+		"description": "Aceite Cocinero x 1 lts",
+		"code": 3,
+		"price": 700,
+		"status": true,
+		"stock": "24",
+		"category": "Almacen",
+		"thumbnails": [],
+		"id": "obvht9y5llpj58d0b"
+	},
+	{
+		"title": "Articulo 4",
+		"description": "Tomate al Natural lata x 200 grs",
+		"code": 4,
+		"price": 200,
+		"status": true,
+		"stock": "50",
+		"category": "Almacen",
+		"thumbnails": [],
+		"id": "1u5wlw4pwlpj59mjh"
+	},
+	{
+		"title": "Articulo 5",
+		"description": "Arvejas en lata",
+		"code": 5,
+		"price": 500,
+		"status": true,
+		"stock": "10",
+		"category": "Almacen",
+		"thumbnails": [
+			"/imagenes.artic5.1",
+			"/imagenes.artic5.2"
+		],
+		"id": "9zirg7bv8lpj5cgy6"
+	},
+	{
+		"title": "Articulo 6",
+		"description": "Arroz Gallo x 1 kgs.",
+		"code": 6,
+		"price": 1200,
+		"status": true,
+		"stock": "7",
+		"category": "Almacen",
+		"thumbnails": [
+			"/imagenes.artic6.1",
+			"/imagenes.artic6.2"
+		],
+		"id": "ccukau9y1lpj5duv9"
+	},
+	{
+		"title": "Articulo 7",
+		"description": "Fideos espagueti x 1 kgs.",
+		"code": 7,
+		"price": 850,
+		"status": true,
+		"stock": "14",
+		"category": "Fideos",
+		"thumbnails": [
+			"/imagenes.artic7.1",
+			"/imagenes.artic7.2",
+			"/imagenes.artic7.3"
+		],
+		"id": "cuwpvrym3lpj5fkqo"
+	},
+	{
+		"title": "Articulo 8",
+		"description": "Fideos resorte x 1 kgs.",
+		"code": 8,
+		"price": 740,
+		"status": true,
+		"stock": "3",
+		"category": "Fideos",
+		"thumbnails": [
+			"/imagenes.artic8.1"
+		],
+		"id": "ibqyna3tslpj5hct2"
+	},
+	{
+		"title": "Articulo 9",
+		"description": "Fideos nido x 1 kgs.",
+		"code": 9,
+		"price": 600,
+		"status": true,
+		"stock": "20",
+		"category": "Fideos",
+		"thumbnails": [
+			"/imagenes.artic9.1"
+		],
+		"id": "so0ylkt9slpj5ikqe"
+	},
+	{
+		"title": "Articulo 10",
+		"description": "Algodon paq. x 1000 grs",
+		"code": 10,
+		"price": 1050,
+		"status": true,
+		"stock": "5",
+		"category": "Farmacia",
+		"thumbnails": [
+			"/imagenes.artic10.1"
+		],
+		"id": "372zmh3oqlpj5upyr"
+	},
+	{
+		"title": "Articulo 11",
+		"description": "Alcohol x 500 cc",
+		"code": 11,
+		"price": 1500,
+		"status": true,
+		"stock": "15",
+		"category": "Farmacia",
+		"thumbnails": [
+			"/imagenes.artic11.1"
+		],
+		"id": "pkcyeev5glpj61e27"
+	}
+]
