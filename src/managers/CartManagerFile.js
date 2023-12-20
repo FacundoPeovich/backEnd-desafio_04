@@ -26,7 +26,7 @@ class CartManagerFile {
 
       if (cartsIndex >= 0) {
         const cart = carts[cartsIndex];
-        const products = cart.products.map( product => product);
+        const products = cart.products.map(product => product);
         return products;
       }
     } catch {
@@ -48,10 +48,10 @@ class CartManagerFile {
 
   updateCarts = async (idCart, idProduct) => {
     const carts = await this.getCarts();
-    
+
     try {
 
-        const cartsIndex = carts.findIndex((cart) => cart.id === idCart);
+      const cartsIndex = carts.findIndex((cart) => cart.id === idCart);
 
       if (cartsIndex >= 0) {
         //Busco el objeto producto con idProduct en el array products que reside dentro del objeto cart

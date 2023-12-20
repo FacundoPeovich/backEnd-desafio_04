@@ -1,12 +1,10 @@
-    
-    <div>
-      <h3>Productos desde endPoint /</h3>
-      <ul>
-        {{#each products}}
-          <li>{{description}}: {{price}}</li>
-        {{/each}}
-      </ul>
+<div>
+  <h3>Productos desde endPoint /</h3>
+  <ul>
+    {{#each products}}
+    <li>{{description}}: {{price}}</li>
+    {{/each}}
+  </ul>
 
-    </div>
-  <script src="/socket.io/socket.io.js"></script>
-  
+</div>
+<script src="/socket.io/socket.io.js"></script>

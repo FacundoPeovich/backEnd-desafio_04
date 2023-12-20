@@ -25,7 +25,7 @@ router.get("/:cid", async (req, res) => {
 });
 
 router.post("/", async (req, res) => {
-  
+
   const carts = await cartManagerFile.createCarts();
   res.send({
     status: "succes",
@@ -61,7 +61,7 @@ router.delete("/:cid", async (req, res) => {
     status: "succes",
     msg: `Ruta DELETE de CART con ID: ${cid}`,
   });
-  
+
 });
 
 export { router as cartRouter };
